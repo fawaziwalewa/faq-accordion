@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-light-pink: #F8EEFF;
+    --color-dark-pink: #301534;
+    --color-pale-purple: #8B6990;
+    --color-pink-50: #AD28EB;
+    --font-display: "Work Sans", sans-serif;
+}
+
+@custom-variant hover (&:hover);
